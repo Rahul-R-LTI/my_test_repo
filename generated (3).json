@@ -1,6 +1,6 @@
 {
-    "new_data":"ABCDEFGH",
-    "assest_type": "lorry",
+    "new_data":"ABCDEFGH123",
+    "assest_type": "car",
     "gps": {
       "latitude": 14.752164,
       "longitude": 52.264493
