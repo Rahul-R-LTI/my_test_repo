@@ -1,0 +1,72 @@
+[
+  {
+    "assest_type": "lorry",
+    "gps": {
+      "latitude": 14.752164,
+      "longitude": 52.264493
+    }
+  },
+  {
+    "assest_type": "lorry",
+    "gps": {
+      "latitude": 16.753418,
+      "longitude": 17.530744
+    }
+  },
+  {
+    "assest_type": "lorry",
+    "gps": {
+      "latitude": -6.231415,
+      "longitude": -34.741906
+    }
+  },
+  {
+    "assest_type": "truck",
+    "gps": {
+      "latitude": -60.547161,
+      "longitude": -174.48316
+    }
+  },
+  {
+    "assest_type": "car",
+    "gps": {
+      "latitude": -29.452752,
+      "longitude": 7.363491
+    }
+  },
+  {
+    "assest_type": "truck",
+    "gps": {
+      "latitude": -8.295937,
+      "longitude": 25.520531
+    }
+  },
+  {
+    "assest_type": "truck",
+    "gps": {
+      "latitude": -10.00853,
+      "longitude": -71.660284
+    }
+  },
+  {
+    "assest_type": "car",
+    "gps": {
+      "latitude": 31.100425,
+      "longitude": 56.413089
+    }
+  },
+  {
+    "assest_type": "truck",
+    "gps": {
+      "latitude": 88.43159,
+      "longitude": 84.391944
+    }
+  },
+  {
+    "assest_type": "truck",
+    "gps": {
+      "latitude": 5.037067,
+      "longitude": 140.96605
+    }
+  }
+]
